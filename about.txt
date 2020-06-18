@@ -1,0 +1,23 @@
+This is the info page.
+The Tic-Tac-Toe Game is a game that is played by two players.
+Each one of those players make his move by setting his symbol
+In one of the following squares.
+
+  +---+---+---+
+  |   |   |   |
+  +---+---+---+
+  |   |   |   |
+  +---+---+---+
+  |   |   |   |
+  +---+---+---+
+  
+and the winner is the player who can fill tree squentiel squares.
+For example:
+
+  +---+---+---+      +---+---+---+      +---+---+---+
+  | X |   |   |      |   | O |   |      |   |   |   |
+  +---+---+---+      +---+---+---+      +---+---+---+
+  |   | X |   |  or  |   | O |   |  or  |   |   |   | and so on...
+  +---+---+---+      +---+---+---+      +---+---+---+
+  |   |   | X |      |   | O |   |      | X | X | X |
+  +---+---+---+      +---+---+---+      +---+---+---+
